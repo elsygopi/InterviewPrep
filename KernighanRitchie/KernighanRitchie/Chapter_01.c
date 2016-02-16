@@ -1,11 +1,3 @@
-//
-//  Chapter_01.c
-//  KernighanRitchie
-//
-//  Created by Gopichaithanya G on 2/15/16.
-//  Copyright © 2016 EG. All rights reserved.
-//
-
 #include "Chapter_01.h"
 
 /* Examples */
